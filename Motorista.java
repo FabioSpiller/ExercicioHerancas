@@ -4,7 +4,7 @@ public class Motorista {
     private String dataNascimento;
 
 
-    public Motorista(String nome, int cpf, String dataNascimento, Veiculo veiculo) {
+    public Motorista(String nome, int cpf, String dataNascimento) {
         this.nome = nome;
         this.cpf = cpf;
         this.dataNascimento = dataNascimento;
